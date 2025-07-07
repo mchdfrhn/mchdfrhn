@@ -1,48 +1,48 @@
-# Hi, saya Mochamad Farhan Ali! 👋
+# Hi there, I'm Mochamad Farhan Ali! 👋
 
-Selamat datang di profil GitHub saya! Saya seorang **Web Developer** dengan minat yang kuat pada **DevOps**. Saya suka membangun aplikasi web yang efisien dan memastikan infrastruktur berjalan mulus.
-
----
-
-### 🚀 Apa yang sedang saya kerjakan?
-
-Saat ini, saya sedang fokus mengembangkan **Sistem Manajemen Inventaris**. Saya selalu tertarik pada proyek-proyek yang memecahkan masalah nyata dan meningkatkan efisiensi.
+Welcome to my GitHub profile! I'm a **Web Developer** with a strong passion for **DevOps**. I love building efficient web applications and ensuring infrastructure runs smoothly.
 
 ---
 
-### 🛠️ Keahlian & Teknologi
+### 🚀 What I'm currently working on
 
-Saya fasih dengan berbagai bahasa pemrograman dan alat yang kuat, termasuk:
-
-* **Bahasa Pemrograman:** Golang, Node.js, Python, Bash
-* **DevOps & Infrastruktur:** Docker, Kubernetes, Ansible, Terraform, Jenkins
-
-Saya juga terus belajar dan mengembangkan diri, dengan fokus untuk menguasai **DevOps Advance** dan menjadi **Fullstack Web Developer** yang handal di masa depan.
+Currently, I'm focused on developing an **Inventory Management System**. I'm always drawn to projects that solve real-world problems and improve efficiency.
 
 ---
 
-### 🌱 Saya terbuka untuk kolaborasi!
+### 🛠️ Skills & Technologies
 
-Saya antusias untuk berkolaborasi dalam proyek-proyek menarik, terutama yang berkaitan dengan pengembangan web, otomatisasi, dan infrastruktur. Jika Anda punya ide atau membutuhkan bantuan, jangan ragu untuk menjangkau!
+I'm proficient with a variety of powerful programming languages and tools, including:
 
----
+* **Programming Languages:** Go (Golang), Node.js, Python, Bash
+* **DevOps & Infrastructure:** Docker, Kubernetes, Ansible, Terraform, Jenkins
 
-### 📬 Mari terhubung!
-
-Cara terbaik untuk menghubungi saya adalah melalui [**LinkedIn**](https://www.linkedin.com/in/mochamadfarhanali/) (Ganti URL ini dengan profil LinkedIn Anda). Mari berdiskusi tentang teknologi, kolaborasi, atau sekadar berbagi pengalaman!
-
----
-
-### ✨ Sedikit fakta tentang saya
-
-Di luar dunia _coding_, saya punya hobi membaca komik. Selalu ada keseruan dalam setiap halaman baru!
+I'm also continuously learning and growing, with a focus on mastering **Advanced DevOps** practices and becoming a skilled **Fullstack Web Developer** in the future.
 
 ---
 
-### ⭐ Proyek Unggulan
+### 🌱 I'm open to collaboration!
 
-* **[Nama Proyek Favorit Anda]**
-    * Deskripsi singkat tentang proyek ini. Apa fungsinya? Teknologi apa yang digunakan? Mengapa ini proyek favorit Anda?
-    * [Link ke Repositori Proyek ini](https://github.com/mchdfrhn/nama-repo-proyek-favorit-anda) (Ganti dengan link yang benar)
+I'm enthusiastic about collaborating on interesting projects, especially those related to web development, automation, and infrastructure. If you have an idea or need assistance, feel free to reach out!
+
+---
+
+### 📬 Let's connect!
+
+The best way to reach me is through [**LinkedIn**](https://www.linkedin.com/in/your-linkedin-profile/). Let's discuss technology, collaboration, or simply share experiences!
+
+---
+
+### ✨ A little fact about me
+
+Outside of coding, I enjoy reading comics. There's always an adventure waiting in every new page!
+
+---
+
+### ⭐ Featured Project
+
+* **[Your Favorite Project Name]**
+    * A brief description of this project. What does it do? What technologies were used? Why is this your favorite project?
+    * [Link to this Project's Repository](https://github.com/mchdfrhn/your-favorite-project-repo-name) (Replace with the correct link)
 
 ---
