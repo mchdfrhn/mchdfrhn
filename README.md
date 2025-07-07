@@ -29,7 +29,7 @@ I'm enthusiastic about collaborating on interesting projects, especially those r
 
 ### 📬 Let's connect!
 
-The best way to reach me is through [**LinkedIn**](https://www.linkedin.com/in/your-linkedin-profile/). Let's discuss technology, collaboration, or simply share experiences!
+The best way to reach me is through [**LinkedIn**](https://www.linkedin.com/in/mchdfrhn/). Let's discuss technology, collaboration, or simply share experiences!
 
 ---
 
@@ -41,8 +41,8 @@ Outside of coding, I enjoy reading comics. There's always an adventure waiting i
 
 ### ⭐ Featured Project
 
-* **[Your Favorite Project Name]**
+* **Inventory**
     * A brief description of this project. What does it do? What technologies were used? Why is this your favorite project?
-    * [Link to this Project's Repository](https://github.com/mchdfrhn/your-favorite-project-repo-name) (Replace with the correct link)
+    * Link to this Project's Repository (https://github.com/mchdfrhn/inventory)
 
 ---
