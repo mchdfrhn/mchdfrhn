@@ -42,8 +42,7 @@ Ketika terminal Zsh tertutup, saya menghabiskan waktu membedah narasi makro-seja
 
 ### 📊 Metrik Repositori
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mchdfrhn&layout=compact&theme=radical)  
-![Mochamad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mchdfrhn&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mchdfrhn&layout=compact&theme=radical)
 
 ---
 
