@@ -34,17 +34,9 @@ Saat ini, energi dan rekayasa teknis saya terpusat pada:
 
 ---
 
-### 📂 Proyek Unggulan
-
-* **[Surupan Software House]** — Inisiatif lepas untuk membangun aplikasi web modern *end-to-end*.
-* **[SANARÉA]** — Implementasi desain antarmuka dinamis dan animasi tingkat lanjut menggunakan Astro dan GSAP.
-* **[CampusFix]** — Platform *marketplace* penghubung mahasiswa dengan layanan perbaikan teknis.
-
----
-
 ### ✨ Sisi Lain
 
-Ketika terminal Zsh tertutup, saya menghabiskan waktu membedah narasi makro-sejarah (seperti karya Yuval Noah Harari), atau menikmati ekspansi imajinasi melalui anime dan manhwa (*Fate series, Jujutsu Kaisen*). Keseimbangan antara logika mesin dan fiksi manusia adalah kunci untuk menjaga kognisi tetap tajam.
+Ketika terminal Zsh tertutup, saya menghabiskan waktu membedah narasi makro-sejarah, atau menikmati ekspansi imajinasi melalui anime dan manhwa. Keseimbangan antara logika mesin dan fiksi manusia adalah kunci untuk menjaga kognisi tetap tajam.
 
 ---
 
