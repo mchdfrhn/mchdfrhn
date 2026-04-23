@@ -2,19 +2,26 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mchdfrhn&color=blue)](https://github.com/mchdfrhn)
 
-Selamat datang di repositori pusat saya. Saya adalah **Fullstack Developer & DevOps Engineer** pada semester akhir di STT Pekerjaan Umum Jakarta, serta pengelola **Surupan Software House**.
+Selamat datang di repositori pusat saya. Saya adalah **Fullstack Developer & DevOps Engineer** pada semester akhir di STT Pekerjaan Umum Jakarta, serta mengelola bisnis kecil saya **SSH (Surupan Software House)**.
 
 Filosofi pengembangan saya sederhana: menjembatani efisiensi infrastruktur *backend* dengan keanggunan interaksi *frontend*. Saya tidak hanya menulis kode; saya merancang ekosistem—dari *deployment* container hingga otomasi *workflow*.
 
 ---
 
-### 🚀 Apa yang Sedang Saya Bangun?
+### 🚀 Fokus & Infrastruktur Aktif
 
-Saat ini, fokus saya terbagi dalam beberapa domain teknis:
-- 🏗️ **Sipekad:** Mengembangkan Sistem Informasi Kepegawaian & *Dashboard* Visualisasi (Next.js, Express, PostgreSQL).
-- ⚙️ **Infrastruktur Mandiri:** Mengorkestrasi *deployment* menggunakan Docker, Cloudflare Tunnels, Zeabur, dan Railway.
-- 📈 **Algorithmic Trading:** Merancang *Expert Advisors* (EA) menggunakan MQL5 dengan pendekatan *Smart Money Concept* (SMC).
+Saat ini, energi dan rekayasa teknis saya terpusat pada:
+- 🏢 **Surupan Software House (SSH):** Mengelola operasional, strategi *deployment*, dan membangun pondasi digital untuk inisiatif *software house* mandiri.
+- ⚙️ **Infrastruktur Mandiri:** Mengorkestrasi *cloud networking* dan automasi menggunakan Docker, Cloudflare, AWS, serta ekosistem *self-hosted*.
+- 📈 **Algorithmic Trading:** Pengembangan sistem trading otomatis (*Expert Advisors*) berbasis MQL5 dengan integrasi logika *Smart Money Concept* (SMC).
 
+---
+
+### 📂 Proyek & Inisiatif Utama
+
+* **[Dashboard Pegawai & Jabatan Fungsional]** — Sistem Informasi Kepegawaian terpadu yang dirancang untuk efisiensi manajemen data SDM dalam skala besar.
+* **[Sistem Pengajuan Akademik]** — Digitalisasi alur kerja birokrasi kampus untuk memproses validasi dokumen dan persetujuan akademik secara *real-time*.
+* **[Website Kampus STTPU]** — Transformasi digital wajah institusi akademik Sekolah Tinggi Teknologi Pekerjaan Umum Jakarta.
 ---
 
 ### 🛠️ Senjata & Arsitektur
