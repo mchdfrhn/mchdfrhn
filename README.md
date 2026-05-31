@@ -2,35 +2,54 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mchdfrhn&color=blue)](https://github.com/mchdfrhn)
 
-Selamat datang di repositori pusat saya. Saya adalah **Fullstack Developer & DevOps Engineer** pada semester akhir di STT Pekerjaan Umum Jakarta, serta mengelola bisnis kecil saya **SSH (Surupan Software House)**.
+Saya adalah **Fullstack Developer & DevOps Engineer** yang fokus membangun sistem digital yang skalabel, rapi, dan mudah dirawat — dari database schema, REST API, frontend modern, sampai deployment dan workflow automation.
 
-Filosofi pengembangan saya sederhana: menjembatani efisiensi infrastruktur *backend* dengan keanggunan interaksi *frontend*. Saya tidak hanya menulis kode; saya merancang ekosistem—dari *deployment* container hingga otomasi *workflow*.
+Saat ini saya berkuliah di **STT Pekerjaan Umum Jakarta** dan mengembangkan beberapa sistem akademik/internal, termasuk **SIPEKAD**, website kampus STTPU, serta dashboard data untuk kebutuhan administrasi dan monitoring. Di luar itu, saya juga membangun **Surupan Software House (SSH)** sebagai studio kecil untuk web apps, internal tools, automation workflow, dan cloud-ready systems.
 
 ---
 
-### 🚀 Fokus & Infrastruktur Aktif
+### 🚀 Fokus Saat Ini
 
-Saat ini, energi dan rekayasa teknis saya terpusat pada:
-- 🏢 **Surupan Software House (SSH):** Mengelola operasional, strategi *deployment*, dan membangun pondasi digital untuk inisiatif *software house* mandiri.
-- ⚙️ **Infrastruktur Mandiri:** Mengorkestrasi *cloud networking* dan automasi menggunakan Docker, Cloudflare, AWS, serta ekosistem *self-hosted*.
-- 📈 **Algorithmic Trading:** Pengembangan sistem trading otomatis (*Expert Advisors*) berbasis MQL5 dengan integrasi logika *Smart Money Concept* (SMC).
+- 🏫 **SIPEKAD & Sistem Akademik** — membangun sistem informasi akademik dan workflow birokrasi kampus dengan Next.js, PostgreSQL, dan arsitektur yang maintainable.
+- 🏢 **Surupan Software House (SSH)** — mengembangkan fondasi studio software untuk business systems, internal platforms, automation workflows, dan cloud-ready web apps.
+- ⚙️ **DevOps & Infrastruktur Mandiri** — deployment dengan Docker, Cloudflare, AWS, GitHub Actions, Ubuntu, dan ekosistem self-hosted.
+- 🤖 **Python Automation & Chatbot** — web scraping, data cleaning, Google Sheets/CSV workflow, Telegram/WhatsApp bot, dan API integration untuk mengurangi pekerjaan repetitif.
+- 📈 **Algorithmic Trading** — eksperimen Expert Advisor MQL5 berbasis pendekatan Smart Money Concept (SMC).
 
 ---
 
 ### 📂 Proyek & Inisiatif Utama
 
-* **[Dashboard Pegawai & Jabatan Fungsional]** — Sistem Informasi Kepegawaian terpadu yang dirancang untuk efisiensi manajemen data SDM dalam skala besar.
-* **[Sistem Pengajuan Akademik]** — Digitalisasi alur kerja birokrasi kampus untuk memproses validasi dokumen dan persetujuan akademik secara *real-time*.
-* **[Website Kampus STTPU]** — Transformasi digital wajah institusi akademik Sekolah Tinggi Teknologi Pekerjaan Umum Jakarta.
+- **SIPEKAD — Integrated Academic Information System**<br>
+  Sistem informasi akademik dan kemahasiswaan untuk STT Pekerjaan Umum Jakarta. Dibangun dengan Next.js dan PostgreSQL untuk membantu digitalisasi layanan kampus, pengelolaan data mahasiswa, administrasi akademik, dan workflow internal.
+
+- **Website Kampus STTPU**<br>
+  Website institusi sebagai pusat informasi publik dan layanan komunitas akademik.
+
+- **Dashboard Pegawai & Jabatan Fungsional**<br>
+  Dashboard pengelolaan data pegawai/jabatan fungsional dengan dukungan script Python dan SQL untuk cleaning, import, dan sinkronisasi data.
+
+- **Payload + Next.js CMS**<br>
+  CMS website dengan struktur collection, dynamic pages/navigation, SEO improvement, dan UX mobile-first.
+
+- **PostgreSQL Backup Automation**<br>
+  Workflow backup PostgreSQL terjadwal menggunakan GitHub Actions dan Amazon S3.
+
+- **Room Reservation REST API**<br>
+  Backend API menggunakan Go, gorilla/mux, JWT authentication, PostgreSQL schema, validation, dan unit testing.
+
 ---
 
-### 🛠️ Senjata & Arsitektur
+### 🛠️ Stack & Tools
 
-**Fullstack & UI/UX** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+**Frontend & UI**<br>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
 
-**Backend & Database** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) 
+**Backend & Database**<br>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**DevOps, OS & Automasi** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white) ![Bash](https://img.shields.io/badge/Zsh_Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+**DevOps, Automation & Infra**<br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
@@ -48,5 +67,5 @@ Ketika terminal Zsh tertutup, saya menghabiskan waktu membedah narasi makro-seja
 
 ### 📬 Mari Berkolaborasi
 
-Apakah Anda memiliki visi untuk produk digital, arsitektur *cloud*, atau otomasi *workflow*?  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mchdfrhn/)
+Punya kebutuhan untuk produk digital, sistem internal, arsitektur cloud, automation workflow, scraping data publik, atau chatbot bisnis?<br>
+Mari diskusi lewat [LinkedIn](https://www.linkedin.com/in/mchdfrhn/) atau website saya: [mochamadfarhanali.my.id](https://www.mochamadfarhanali.my.id/).
