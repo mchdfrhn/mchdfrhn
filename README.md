@@ -1,71 +1,40 @@
-# ⚡ Mochamad Farhan Ali
+# Mochammad Farhan Ali
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mchdfrhn&color=blue)](https://github.com/mchdfrhn)
+**Fullstack Developer in Jakarta.** I build the software public institutions run on: academic and HR systems for a public-works college and the Ministry of Public Works. I also run [Surupan Software House](https://surupan.tech), a small studio that builds web apps for local businesses.
 
-Saya adalah **Fullstack Developer & DevOps Engineer** yang fokus membangun sistem digital yang skalabel, rapi, dan mudah dirawat — dari database schema, REST API, frontend modern, sampai deployment dan workflow automation.
+[Portfolio](https://www.mochamadfarhanali.my.id) · [LinkedIn](https://www.linkedin.com/in/mchdfrhn) · [Email](mailto:mochamadfarhanali@gmail.com)
 
-Saat ini saya berkuliah di **STT Pekerjaan Umum Jakarta** dan mengembangkan beberapa sistem akademik/internal, termasuk **SIPEKAD**, website kampus STTPU, serta dashboard data untuk kebutuhan administrasi dan monitoring. Di luar itu, saya juga membangun **Surupan Software House (SSH)** sebagai studio kecil untuk web apps, internal tools, automation workflow, dan cloud-ready systems.
+### Now
 
----
+- **Software Engineer (Fullstack)** at STT Pekerjaan Umum Jakarta, building and maintaining campus systems
+- **Founder** of Surupan Software House: web apps, internal tools, and landing pages for clients
+- Studying **Informatics Engineering** at STT PU (2023–present)
 
-### 🚀 Fokus Saat Ini
+### Selected work
 
-- 🏫 **SIPEKAD & Sistem Akademik** — membangun sistem informasi akademik dan workflow birokrasi kampus dengan Next.js, PostgreSQL, dan arsitektur yang maintainable.
-- 🏢 **Surupan Software House (SSH)** — mengembangkan fondasi studio software untuk business systems, internal platforms, automation workflows, dan cloud-ready web apps.
-- ⚙️ **DevOps & Infrastruktur Mandiri** — deployment dengan Docker, Cloudflare, AWS, GitHub Actions, Ubuntu, dan ekosistem self-hosted.
-- 🤖 **Python Automation & Chatbot** — web scraping, data cleaning, Google Sheets/CSV workflow, Telegram/WhatsApp bot, dan API integration untuk mengurangi pekerjaan repetitif.
-- 📈 **Algorithmic Trading** — eksperimen Expert Advisor MQL5 berbasis pendekatan Smart Money Concept (SMC).
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [SIPEKAD](https://github.com/mchdfrhn/sipekad-fe) | Academic submission system for ~300 students across 3 study programs. Admins review requests in one click; students get status updates on WhatsApp. | React, Node.js, WhatsApp API |
+| [Website Kampus STTPU](https://github.com/mchdfrhn/website-kampus) | Official campus website. Staff publish news and pages through a headless CMS without touching code. | Next.js, Payload CMS, PostgreSQL |
+| [Dashboard Kepegawaian Pusdatin](https://pegawai-pusdatin.vercel.app) | HR and functional-position dashboard for 140+ employees at the Ministry of Public Works, fed by Python + SQL ETL from spreadsheets. | Next.js, TypeScript, Supabase |
+| [go-roomify](https://github.com/mchdfrhn/go-roomify) | Room reservation REST API in clean architecture, with JWT auth and 85%+ unit test coverage. | Go, gorilla/mux, PostgreSQL |
+| PostgreSQL backup automation | Scheduled database backups to Amazon S3. | GitHub Actions, AWS S3 |
 
----
+Case studies with screenshots are on [my portfolio](https://www.mochamadfarhanali.my.id/#work).
 
-### 📂 Proyek & Inisiatif Utama
+### Toolbox
 
-- **SIPEKAD — Integrated Academic Information System**<br>
-  Sistem informasi akademik dan kemahasiswaan untuk STT Pekerjaan Umum Jakarta. Dibangun dengan Next.js dan PostgreSQL untuk membantu digitalisasi layanan kampus, pengelolaan data mahasiswa, administrasi akademik, dan workflow internal.
+**Frontend** · React, Next.js, Astro, Tailwind CSS<br>
+**Backend** · Node.js, Express, Go, Laravel, REST APIs<br>
+**Data** · PostgreSQL, MySQL, Supabase, Python (ETL, scraping)<br>
+**Infra** · Docker, GitHub Actions, AWS, Cloudflare, Vercel, Ubuntu
 
-- **Website Kampus STTPU**<br>
-  Website institusi sebagai pusat informasi publik dan layanan komunitas akademik.
+### On the side
 
-- **Dashboard Pegawai & Jabatan Fungsional**<br>
-  Dashboard pengelolaan data pegawai/jabatan fungsional dengan dukungan script Python dan SQL untuk cleaning, import, dan sinkronisasi data.
+Python automation and chatbots (Telegram/WhatsApp bots, Google Sheets workflows), and an MQL5 Expert Advisor experiment built around Smart Money Concepts.
 
-- **Payload + Next.js CMS**<br>
-  CMS website dengan struktur collection, dynamic pages/navigation, SEO improvement, dan UX mobile-first.
+When the terminal is closed, I'm reading macro-history or catching up on anime and manhwa.
 
-- **PostgreSQL Backup Automation**<br>
-  Workflow backup PostgreSQL terjadwal menggunakan GitHub Actions dan Amazon S3.
+### Work with me
 
-- **Room Reservation REST API**<br>
-  Backend API menggunakan Go, gorilla/mux, JWT authentication, PostgreSQL schema, validation, dan unit testing.
-
----
-
-### 🛠️ Stack & Tools
-
-**Frontend & UI**<br>
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
-
-**Backend & Database**<br>
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**DevOps, Automation & Infra**<br>
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
----
-
-### ✨ Sisi Lain
-
-Ketika terminal Zsh tertutup, saya menghabiskan waktu membedah narasi makro-sejarah, atau menikmati ekspansi imajinasi melalui anime dan manhwa. Keseimbangan antara logika mesin dan fiksi manusia adalah kunci untuk menjaga kognisi tetap tajam.
-
----
-
-### 📊 Metrik Repositori
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mchdfrhn&layout=compact&theme=radical)
-
----
-
-### 📬 Mari Berkolaborasi
-
-Punya kebutuhan untuk produk digital, sistem internal, arsitektur cloud, automation workflow, scraping data publik, atau chatbot bisnis?<br>
-Mari diskusi lewat [LinkedIn](https://www.linkedin.com/in/mchdfrhn/) atau website saya: [mochamadfarhanali.my.id](https://www.mochamadfarhanali.my.id/).
+Got a process that still runs on spreadsheets, or an internal system that needs building? Reach me on [LinkedIn](https://www.linkedin.com/in/mchdfrhn) or through [my portfolio](https://www.mochamadfarhanali.my.id/#contact).
