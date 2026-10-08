@@ -17,7 +17,7 @@
 | [SIPEKAD](https://github.com/mchdfrhn/sipekad-fe) | Academic submission system for ~300 students across 3 study programs. Admins review requests in one click; students get status updates on WhatsApp. | React, Node.js, WhatsApp API |
 | [Website Kampus STTPU](https://github.com/mchdfrhn/website-kampus) | Official campus website. Staff publish news and pages through a headless CMS without touching code. | Next.js, Payload CMS, PostgreSQL |
 | [Dashboard Kepegawaian Pusdatin](https://pegawai-pusdatin.vercel.app) | HR and functional-position dashboard for 140+ employees at the Ministry of Public Works, fed by Python + SQL ETL from spreadsheets. | Next.js, TypeScript, Supabase |
-| [go-roomify](https://github.com/mchdfrhn/go-roomify) | Room reservation REST API in clean architecture, with JWT auth and 85%+ unit test coverage. | Go, gorilla/mux, PostgreSQL |
+| [go-roomify](https://github.com/mchdfrhn/go-roomify) | Meeting room reservation REST API in clean architecture, with JWT auth, role-based access, and CSV reports. | Go, Gin, PostgreSQL |
 | PostgreSQL backup automation | Scheduled database backups to Amazon S3. | GitHub Actions, AWS S3 |
 
 Case studies with screenshots are on [my portfolio](https://www.mochamadfarhanali.my.id/#work).
