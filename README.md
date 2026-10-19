@@ -6,6 +6,7 @@
 
 ### Now
 
+- **Fullstack Engineer** at Hino Motors Sales Indonesia, modernizing and troubleshooting internal and dealer-facing systems with FastAPI and Next.js
 - **Software Engineer (Fullstack)** at STT Pekerjaan Umum Jakarta, building and maintaining campus systems
 - **Founder** of Surupan Software House: web apps, internal tools, and landing pages for clients
 - Studying **Informatics Engineering** at STT PU (2023–present)
@@ -14,6 +15,7 @@
 
 | Project | What it does | Stack |
 | --- | --- | --- |
+| RuangSDM (private repo) | HR information system for the college: employee records, fingerprint attendance, leave, payroll with PDF payslips, and an employee self-service portal. Migrated 68 records from Excel with 0 import errors. | React, TypeScript, Hono, PostgreSQL |
 | [SIPEKAD](https://github.com/mchdfrhn/sipekad-fe) | Academic submission system for ~300 students across 3 study programs. Admins review requests in one click; students get status updates on WhatsApp. | React, Node.js, WhatsApp API |
 | [Website Kampus STTPU](https://github.com/mchdfrhn/website-kampus) | Official campus website. Staff publish news and pages through a headless CMS without touching code. | Next.js, Payload CMS, PostgreSQL |
 | [Dashboard Kepegawaian Pusdatin](https://pegawai-pusdatin.vercel.app) | HR and functional-position dashboard for 140+ employees at the Ministry of Public Works, fed by Python + SQL ETL from spreadsheets. | Next.js, TypeScript, Supabase |
@@ -24,8 +26,8 @@ Case studies with screenshots are on [my portfolio](https://www.mochamadfarhanal
 
 ### Toolbox
 
-**Frontend** · React, Next.js, Astro, Tailwind CSS<br>
-**Backend** · Node.js, Express, Go, Laravel, REST APIs<br>
+**Frontend** · TypeScript, React, Next.js, Astro, Tailwind CSS<br>
+**Backend** · FastAPI, Node.js, Express, Go, Laravel, REST APIs<br>
 **Data** · PostgreSQL, MySQL, Supabase, Python (ETL, scraping)<br>
 **Infra** · Docker, GitHub Actions, AWS, Cloudflare, Vercel, Ubuntu
 
